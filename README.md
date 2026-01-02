@@ -43,6 +43,8 @@ Run the development server:
 
 npm run dev
 
+live working link for zentask:https://to-do-list-application-sigma.vercel.app/
+
 
 📸 Screenshots
 <img width="1820" height="921" alt="image" src="https://github.com/user-attachments/assets/a6b4f3d4-b6b8-4cc9-9503-22c63a3923a5" />
